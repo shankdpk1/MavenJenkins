@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-04BK3GM" name="PrintMsg.printMsg" tests="1" failures="0" timestamp="10 Nov 2017 21:28:13 GMT" time="6.935" errors="0">
+  <testcase name="printMethod" time="6.914" classname="PrintMsg.printMsg"/>
+</testsuite>
