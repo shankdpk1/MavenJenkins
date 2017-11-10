@@ -14,7 +14,7 @@ public class printMsg {
 		WebDriver driver = new FirefoxDriver();
 		
 		driver.get("https://www.google.com/");
-		System.out.println("title is "+driver.getTitle());
+		System.out.println("title is  "+driver.getTitle());
 		driver.quit();
 		
 		//i am converting to testng xml file which will be run from POM file
